@@ -47,6 +47,7 @@ To find the county with the largest number of votes, a largest_count = 0 variabl
 ![Largest Count](https://github.com/baileyvo/Election_Analysis/blob/main/Resources/Largest%20Count.PNG)
 
 Overall, the following results were generated:
+
 ![Election Results](https://github.com/baileyvo/Election_Analysis/blob/main/Resources/Election%20Results.PNG).
 
 ## Election Audit Summary
