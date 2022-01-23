@@ -37,10 +37,11 @@ Using the same data looking at the candiate results for a Colorado congressional
 ## Election Audit Results
 First, it had to be determined how many votes were cast in the election, this was done by initializing a variable: total_votes = 0. The total_votes variable was then used with the following code to find the total number of votes cast in the election:
 ![Total Votes](https://github.com/baileyvo/Election_Analysis/blob/main/Resources/Total%20Votes.PNG)
+
 In total, **369,711** votes were cast in the election.
 
 To find the number of votes, a county list (county_list = []) and county votes dictionary (county_votes = {}) were created. From there, the following code was used to find the total number of votes and percentage of total votes for each county in the precinct:
-![County Votes](linkhttps://github.com/baileyvo/Election_Analysis/blob/main/Resources/County%20Votes.PNG)
+![County Votes](https://github.com/baileyvo/Election_Analysis/blob/main/Resources/County%20Votes.PNG)
 
 To find the county with the largest number of votes, a largest_count = 0 variable was initiated. From there, the following code was used to determine the county:
 ![Largest Count](https://github.com/baileyvo/Election_Analysis/blob/main/Resources/Largest%20Count.PNG)
